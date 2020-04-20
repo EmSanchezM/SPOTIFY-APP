@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
-![alt text](https://github.com/EmSanchezM/SPOTIFY-APP/tree/master/src/assets/img/preview.png "Logo Preview Text 1")
+![Vista previa](https://github.com/EmSanchezM/SPOTIFY-APP/blob/master/src/assets/img/preview.PNG "Logo Preview Text 1")
 
 
 ## Development server
